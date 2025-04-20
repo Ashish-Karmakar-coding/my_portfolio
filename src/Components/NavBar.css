@@ -1,0 +1,37 @@
+
+.nav-container{
+    margin: 0;
+    padding: 0.5rem;
+}
+.nav-bar ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-bar ul li{
+    /* background-color: ; */
+    border-radius: 5rem;
+    padding: 0.7rem;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+    list-style: none;
+
+}
+
+
+.nav-bar ul li a{
+    /* font-family:; */
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.2rem;
+    font-weight: 600;
+    font-weight: 100
+}
+
+.nav-bar ul li:hover{
+    /* background-color: aliceblue; */
+    border-radius: 5rem;
+    background-color: #ffffff;
+    color: #1b1a1a;
+
+}

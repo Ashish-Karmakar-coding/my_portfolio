@@ -1,0 +1,38 @@
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    gap: 8px;
+
+    height:20vh;
+}
+
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem;
+}
+.div2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 5rem; */
+    padding-top: 5rem;
+}
+
+.heading{
+    font-size: 2.5rem;
+}
+
+.heading h1 span{
+    
+    color: #8A2BE2;
+    /* color: #9370DB; */
+}
+    
+.img img{
+    height: 40vh;
+}
+        
