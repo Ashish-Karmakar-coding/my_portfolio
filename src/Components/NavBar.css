@@ -1,7 +1,9 @@
 
 .nav-container{
     margin: 0;
-    padding: 0.5rem;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+    height: 10vh;
 }
 .nav-bar ul{
     display: flex;

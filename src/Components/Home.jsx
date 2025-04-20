@@ -1,6 +1,6 @@
 import "./Home.css";
 import { useState, useEffect } from "react";
-import robotImage from "../Images/robot2.jpg";
+import robotImage from "../Images/robot.png";
 import { motion } from "framer-motion";
 
 function Home() {
