@@ -8,9 +8,20 @@ function App() {
 
   return (
     <>
+    <div className='section'>
       <NavBar/>
       <Home/>
-      {/* <AboutMe/> */}
+    </div>
+    <div className='section' >
+      <AboutMe/>
+      Hi
+    </div>
+    <div className='section'>
+      port
+    </div>
+    <div className='section'>
+      HI
+    </div>
     </>
   )
 }
